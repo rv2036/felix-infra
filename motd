@@ -1,0 +1,9 @@
+Welcome to a powerful Arch Linux builder with RISC-V support.
+
+[1;31mThis system IS NOT backed up.[0m Please ensure you DO NOT keep valuable data here!
+
+[1;32mUsage Info[0m
+  - Use the [1mdevtools[0m helpers to build packages.
+  - Don't forget to set your [1mPACKAGER[0m in [1;34m~/.makepkg.conf[0m.
+  - [1mChroots[0m are kept in [1;34m/var/lib/archbuild[0m (~chroots).
+
