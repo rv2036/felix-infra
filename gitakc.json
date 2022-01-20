@@ -1,7 +1,8 @@
 {
   "ttl": "600",
   "userMap": {
-    "felix": ["felixonmars"]
+    "felix": ["felixonmars"],
+    "unv": ["sinofp"]
   },
   "cacheFolder": "/tmp/gitakc"
 }
