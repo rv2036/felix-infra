@@ -1,0 +1,7 @@
+{
+  "ttl": "600",
+  "userMap": {
+    "felix": ["felixonmars"]
+  },
+  "cacheFolder": "/tmp/gitakc"
+}
