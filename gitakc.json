@@ -2,7 +2,8 @@
   "ttl": "600",
   "userMap": {
     "felix": ["felixonmars"],
-    "unv": ["sinofp"]
+    "unv": ["sinofp"],
+    "sequencer": ["sequencer"]
   },
   "cacheFolder": "/tmp/gitakc"
 }
