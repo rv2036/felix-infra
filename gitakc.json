@@ -1,9 +1,21 @@
 {
   "ttl": "600",
   "userMap": {
+    "ast-x64": ["Ast-x64"],
+    "avimitin": ["avimitin"],
+    "coelacanthus": ["CoelacanthusHex"],
+    "cubercsl": ["cubercsl"],
     "felix": ["felixonmars"],
+    "ftml": ["XieJiSS"],
+    "piggy": ["piggynl"],
+    "rapiz": ["rapiz1"],
+    "rvalue": ["r-value"],
+    "sequencer": ["sequencer"],
+    "sterprim": ["xctan"],
+    "tsuibin": ["tsuibin"],
     "unv": ["sinofp"],
-    "sequencer": ["sequencer"]
+    "xeonacid": ["Xeonacid"],
+    "zenithal": ["ZenithalHourlyRate"]
   },
   "cacheFolder": "/tmp/gitakc"
 }
