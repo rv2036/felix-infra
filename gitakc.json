@@ -5,6 +5,7 @@
     "avimitin": ["avimitin"],
     "coelacanthus": ["CoelacanthusHex"],
     "cubercsl": ["cubercsl"],
+    "eastdong":["IEAST"],
     "felix": ["felixonmars"],
     "ftml": ["XieJiSS"],
     "piggy": ["piggynl"],
@@ -15,8 +16,7 @@
     "tsuibin": ["tsuibin"],
     "unv": ["sinofp"],
     "xeonacid": ["Xeonacid"],
-    "zenithal": ["ZenithalHourlyRate"],
-    "eastdong":["IEAST"]
+    "zenithal": ["ZenithalHourlyRate"]
   },
   "cacheFolder": "/tmp/gitakc"
 }
