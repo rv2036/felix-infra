@@ -21,8 +21,8 @@
     "tsuibin": ["tsuibin"],
     "unv": ["sinofp"],
     "xeonacid": ["Xeonacid"],
-    "zenithal": ["ZenithalHourlyRate"],
-    "yqszxx": ["yqszxx"]
+    "yqszxx": ["yqszxx"],
+    "zenithal": ["ZenithalHourlyRate"]
   },
   "cacheFolder": "/tmp/gitakc"
 }
