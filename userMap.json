@@ -1,5 +1,4 @@
 {
-  "ttl": "600",
   "userMap": {
     "ast-x64": ["Ast-x64"],
     "avimitin": ["avimitin"],
@@ -24,6 +23,5 @@
     "xeonacid": ["Xeonacid"],
     "yqszxx": ["yqszxx"],
     "zenithal": ["ZenithalHourlyRate"]
-  },
-  "cacheFolder": "/tmp/gitakc"
+  }
 }
