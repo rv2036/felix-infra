@@ -2,7 +2,7 @@
 set -e
 
 echo "Parsing gitakc.json"
-users="$(jq -r .userMap[][] gitakc.json)"
+users="$(jq -r .userMap[][] userMap.json)"
 
 for user in ${users[@]}; do
     echo "Fetching keys for $user..."
