@@ -20,9 +20,9 @@
     "sterprim": ["xctan"],
     "tsuibin": ["tsuibin"],
     "unv": ["sinofp"],
+    "wissy": ["Wissy"],
     "xeonacid": ["Xeonacid"],
     "yqszxx": ["yqszxx"],
-    "zenithal": ["ZenithalHourlyRate"],
-    "wissy": ["Wissy"]
+    "zenithal": ["ZenithalHourlyRate"]
   }
 }
