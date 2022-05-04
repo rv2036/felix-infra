@@ -13,6 +13,7 @@
     "unv": ["sinofp"],
     "wissy": ["wissygh"],
     "yqszxx": ["yqszxx"],
-    "zenithal": ["ZenithalHourlyRate"]
+    "zenithal": ["ZenithalHourlyRate"],
+	"midnighter": [midnighter95]
   }
 }
