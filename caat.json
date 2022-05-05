@@ -2,6 +2,7 @@
   "userMap": {
     "dram": ["dramforever"],
     "eastdong":["IEAST"],
+	"eiron": ["midnighter95"],
     "felix": ["felixonmars"],
     "lustrew": ["Lucas-Wye"],
     "meow": ["CircuitCoder"],
@@ -13,7 +14,6 @@
     "unv": ["sinofp"],
     "wissy": ["wissygh"],
     "yqszxx": ["yqszxx"],
-    "zenithal": ["ZenithalHourlyRate"],
-	"eiron": ["midnighter95"]
+    "zenithal": ["ZenithalHourlyRate"]
   }
 }
