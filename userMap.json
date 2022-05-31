@@ -18,6 +18,7 @@
     "rvalue": ["r-value"],
     "sequencer": ["sequencer"],
     "sterprim": ["xctan"],
+    "tinysnow": ["TinySnow"],
     "tsuibin": ["tsuibin"],
     "xeonacid": ["Xeonacid"],
     "zenithal": ["ZenithalHourlyRate"]
