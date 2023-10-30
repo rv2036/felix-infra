@@ -25,6 +25,7 @@
     "sterprim": ["xctan"],
     "tinysnow": ["TinySnow"],
     "xeonacid": ["Xeonacid"],
+    "xunop": ["Xunop"],
     "xyenchi": ["XYenChi"],
     "zenithal": ["ZenithalHourlyRate"]
   }
