@@ -28,6 +28,7 @@
     "xeonacid": ["Xeonacid"],
     "xunop": ["Xunop"],
     "xyenchi": ["XYenChi"],
-    "zenithal": ["ZenithalHourlyRate"]
+    "zenithal": ["ZenithalHourlyRate"],
+    "riscv": ["XiePengHan"]
   }
 }
