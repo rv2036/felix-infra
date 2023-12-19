@@ -12,6 +12,7 @@
     "hexchain": ["hexchain"],
     "kxxt": ["kxxt"],
     "moui": ["moui0"],
+    "phan": ["phanen"],
     "rvalue": ["r-value"],
     "sequencer": ["sequencer"],
     "sterprim": ["xctan"],
