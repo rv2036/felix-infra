@@ -1,34 +1,23 @@
 {
   "userMap": {
     "aimi": ["aimixsaka"],
-    "ast-x64": ["Ast-x64"],
     "asuna": ["SpriteOvO"],
     "avimitin": ["avimitin"],
-    "axionl": ["axionl"],
     "coelacanthus": ["CoelacanthusHex"],
-    "cubercsl": ["cubercsl"],
     "dram": ["dramforever"],
     "eastdong":["IEAST"],
-    "fanta": ["FantasqueX"],
     "felix": ["felixonmars"],
     "ftml": ["XieJiSS"],
     "hacker": ["hack3ric"],
     "hexchain": ["hexchain"],
     "kxxt": ["kxxt"],
-    "misaka": ["iamtwz"],
-    "moody": ["moodyhunter"],
     "moui": ["moui0"],
-    "nomad": ["a1ca7raz"],
-    "piggy": ["piggynl"],
     "phan": ["phanen"],
-    "rapiz": ["rapiz1"],
     "rvalue": ["r-value"],
     "sequencer": ["sequencer"],
     "sterprim": ["xctan"],
-    "tinysnow": ["TinySnow"],
     "xeonacid": ["Xeonacid"],
     "xunop": ["Xunop"],
-    "xyenchi": ["XYenChi"],
-    "zenithal": ["ZenithalHourlyRate"]
+    "xyenchi": ["XYenChi"]
   }
 }
