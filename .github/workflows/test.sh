@@ -1,8 +1,8 @@
 #!/bin/bash
 set -e
 
-echo "Parsing gitakc.json"
-users="$(jq -r .userMap[][] userMap.json caat.json)"
+echo "Parsing userMap.json"
+users="$(jq -r .userMap[][] userMap.json)"
 
 for user in ${users[@]}; do
     echo "Fetching keys for $user..."
